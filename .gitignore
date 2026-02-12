@@ -1,0 +1,29 @@
+# uv environment
+.venv/
+__pycache__/
+uv.lock
+uv_env/
+
+# Dependencies
+*.egg-info
+
+# Python caches
+*.pyc
+*.pyo
+
+# Local environment variables
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.pid
